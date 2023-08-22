@@ -13,7 +13,7 @@ Development of a fullstack-application for fun to cover the following areas:
 -  Github Actions
 -  Docker for containerisation and deployment
 -  AWS for hosting and scaling (Elastic Beanstalk, EC2, S3)
--  JavaScript/TypeScript and React for front-end development
+-  JavaScript and React for front-end development
 -  Spring Security 6
 -  Login/Registration for user management
 -  Slack Integration
