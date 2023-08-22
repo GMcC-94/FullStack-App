@@ -1,9 +1,3 @@
-**/target/
-**/.idea/
-**/node_modules
-**/.mvn/
-**/backend/Dockerrun.aws.json
-
 # Logs
 logs
 *.log
